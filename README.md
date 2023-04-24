@@ -1,2 +1,2 @@
 # Pag-HS
-Clon de oagina de inicio de starbucks
+Clon de pagina de inicio de starbucks
